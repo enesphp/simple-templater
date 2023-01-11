@@ -6,7 +6,7 @@
 
 A simple template engine for simple PHP applications.
 
-# Kurulum
+# Install
 
 ### Requirements & Setup
 - Composer
