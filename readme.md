@@ -12,7 +12,7 @@ A simple template engine for simple PHP applications.
 - PHP 7.4+
 
 ```
-composer require par274/simple-templater
+composer require par274/templater
 ```
 
 OR
@@ -23,6 +23,12 @@ composer update
 ```
 
 # Usage
+
+```php
+<?php
+use Templater\Templater;
+?>
+```
 
 ### Print DocType 
 ```php
