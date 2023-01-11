@@ -47,6 +47,10 @@ $templater->addGlobals([
 ?>
 ```
 
+```php
+<?php echo $test->status; ?>
+```
+
 ### Change page title
 ```php
 <?php $this->setPageTitle('Depremler Tablo'); ?>
