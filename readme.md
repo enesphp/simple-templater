@@ -1,5 +1,6 @@
 ![php](https://img.shields.io/github/languages/top/par274/simple-templater)
-![license](https://img.shields.io/github/license/par274/simple-templeter)
+![php](https://img.shields.io/packagist/dependency-v/par274/templater/%5E7.4.33)
+![license](https://img.shields.io/github/license/par274/simple-templater)
 
 # PHP Simple Templater
 
